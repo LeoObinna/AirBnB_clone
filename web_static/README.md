@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 The Readme on 0x01. AirBnB clone - Web static
-=======
 This project is on 0x01. AirBnB clone - Web static
 HTML, CSS, and  Front-end
 
